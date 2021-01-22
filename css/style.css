@@ -1795,3 +1795,13 @@ div#qbootstrap-testimonials{
 
 }
 /*# sourceMappingURL=style.css.map */
+
+
+@media screen and (min-width: 768px) {
+  .wedding-events{
+    display: none;
+  }
+  #qbootstrap-gallery{
+    display: none;
+  }
+}
