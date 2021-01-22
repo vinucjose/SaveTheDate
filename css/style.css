@@ -1764,7 +1764,7 @@ background-image: url(../images/IMG-20180909-WA0051.jpg);
 @media (max-width: 768px)
 {
   .qbootstrap-cover {
-    background: url(../images/mp.jpg);
+    background: url(../images/1.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -1772,7 +1772,7 @@ background-image: url(../images/IMG-20180909-WA0051.jpg);
     margin-top: 35px;
 }
 #qbootstrap-countdown{
-    background-image: url(../images/ASD.jpg);
+    background-image: url(../images/4.jpg);
     background-position: center;
     background-size: cover;
 }
